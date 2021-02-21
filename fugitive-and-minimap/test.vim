@@ -1,7 +1,7 @@
 let g:vim_dir = "~/.vim"
 
 call plug#begin(g:vim_dir."/plugged")
-  Plug 'tpope/vim-fugitive'
+  Plug 'ianhomer/vim-fugitive'
   Plug 'wfxr/minimap.vim'
 call plug#end()
 
